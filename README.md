@@ -1,8 +1,8 @@
 ## Proyecto: API Mi Tienda de Barrio
 
-API para gestionar los productos de la tienda de don Pedro.
+API para la gestion de productos en la tienda de don Pedro.
 
-- **Aprendiz:** Cristian david correa agudelo
+- **Aprendiz:** Brillith loaiza
 - **Programa:** ADSO – SENA
 
 ## Estructura

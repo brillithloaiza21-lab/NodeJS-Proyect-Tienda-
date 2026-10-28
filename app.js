@@ -2,10 +2,10 @@ import pc from "picocolors";
 import { formatearPrecio, formatearNombre } from "./utils/formato.js";
 import { formatearNombre } from "./utils/formato.js";
 
-console.log("hola mundo desde la recalcada base de node.js")
-console.log(picocolors.green("este mi color primal"));
+console.log("hola mundo desde node.js")
+console.log(picocolors.green("este mi color principal"));
 
-console.log(formatearPrecio(1500))
+console.log(formatearPrecio(8500))
 
 import { productos } from "./data/productos.js";
 import {
